@@ -1,6 +1,6 @@
 name="Hard Colonialism"
 path="mod/hardcolonialism"
-supported_version "1.22.2"
+supported_version "1.23"
 tags=
 {
 	"Expansion",
