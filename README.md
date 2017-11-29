@@ -1,6 +1,6 @@
 # EU4 Hard Colonialism
 
-EU4 Hard Colonialism aims to make colonising in EU4 more of a challenge, as natives and competing great powers alike vie for control of the new world and it's riches.
+EU4 Hard Colonialism aims to make colonising in EU4 more of a challenge, as natives and competing great powers alike vy for control of the new world and it's riches.
 
 ## Goals
 
