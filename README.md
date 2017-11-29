@@ -8,3 +8,7 @@ EU4 Hard Colonialism aims to make colonising in EU4 more of a challenge, as nati
 * Colonies should be risky
 * Decisions you make should have long-term ramifications
 * There should be no "no-brain" decisions of only positives
+
+## Installation
+
+To run the mod, zip the subfolders (i.e. common) and add both the zip and the .mod file to your Documents/Paradox Interactive/Europa Universalis IV/mod directory.
