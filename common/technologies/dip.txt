@@ -23,7 +23,7 @@ technology = {
 	
 	merchants = yes
 	trade_range				=	100
-	global_colonial_growth	= 	10
+	global_colonial_growth	= 	5
 }
 
 technology = {
@@ -48,7 +48,7 @@ technology = {
 	naval_maintenance		= 	0.1
 	range					= 	100
 	trade_efficiency 		= 	0.05
-	global_colonial_growth	= 	15
+	global_colonial_growth	= 	10
 	
 	enable = early_carrack
 
@@ -123,7 +123,7 @@ technology = {
 	
 	trade_efficiency		= 	0.05
 	trade_range				=	20
-	global_colonial_growth  = 	10
+	global_colonial_growth  = 	5
 	enable = flute
 	enable = war_galley
 }
@@ -173,7 +173,7 @@ technology = {
 	
 	naval_maintenance		= 	0.1
 	range					=	50
-	global_colonial_growth  = 	15
+	global_colonial_growth  = 	10
 	
 	enable = galleon
 	enable = early_frigate
@@ -268,7 +268,7 @@ technology = {
 	# Tech 23
 	year = 1700
 	
-	global_colonial_growth  = 	25	
+	global_colonial_growth  = 	10
 	range					=	150
 	allow_client_states = yes		
 
@@ -306,7 +306,7 @@ technology = {
 	year = 1745
 	
 	range					=	200
-	global_colonial_growth  = 	25
+	global_colonial_growth  = 	10
 	num_accepted_cultures = 1
 	
 	enable = eastindiaman
@@ -363,5 +363,5 @@ technology = {
 	
 	trade_efficiency 		= 	0.05
 	trade_range				=	20
-	global_colonial_growth  = 	50
+	global_colonial_growth  = 	25
 }
