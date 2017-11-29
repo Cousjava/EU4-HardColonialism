@@ -1,11 +1,12 @@
 name="Hard Colonialism"
-archive="mod/hardcolonialism.zip"
+path="mod/hardcolonialism"
 replace_path="common/technologies"
+replace_path = "common/defines"
 tags=
 {
-"Expansion"
-"Historical"
-"Missions And Decisions"
-"Trade"
+	"Expansion"
+	"Historical"
+	"Missions And Decisions"
+	"Trade"
 }
-supported_version="1.23.1.0"
+supported_version="1.23.*"
