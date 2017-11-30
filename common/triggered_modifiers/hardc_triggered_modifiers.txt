@@ -1,0 +1,19 @@
+#########
+# Hard Colonialism Modifiers
+#########
+
+hard_colonialism_modifier = {
+	
+	potential = {
+		always = yes
+	}
+	trigger = {
+		always = yes
+	}
+
+	colonists = 1
+	global_colonial_growth = -20
+	range = 0.25
+	trade_range = 0.5
+	
+}
